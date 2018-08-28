@@ -1,0 +1,9 @@
+div{
+      width: 100px; height: 100px;background-color: red;
+    }
+    #box1 {
+      width: 300px; height: 350px; background-color: blue;
+    }
+    .clas1 {
+      width: 200px; height: 200px; background-color: yellow;
+    }
